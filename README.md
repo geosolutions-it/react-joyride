@@ -1,3 +1,8 @@
+# Fork info
+This repo has been forked because we needed to add [this](https://github.com/geosolutions-it/react-joyride/tree/a51a19f6e298245d30ebee3fa7e69ed585ed29f3) fix
+We are going to publish the **release** branch on npm GeoSolutions registry
+
+
 React Joyride
 ===
 
